@@ -1,7 +1,16 @@
 # pycontw2017-program
 
 議程組相關工作記錄追蹤
-##列表
+
+##使用方法
+
+列表中的每一個主題都會連結到對應的 MD File，內容結構會有項目流程細節、正在討論、該完成事項與討論。
+
+比較特別是討論的部分會連結到 Gist，因此可以透過 Gist 的留言功能整理大家想法，這些內容會 fork 到這個專案內，定期的 pull 做備份。
+
+
+
+##主題列表
 * [簡介](README.md)
 * [Keynote](keynote.md)
 * [Call for Proposal](CfP.md)
@@ -11,8 +20,6 @@
 * [JobFair](jobfair.md)
  
 
-
-
-##連結
+##參考連結
 1. [工作清單](https://docs.google.com/document/d/1hCUG9Qg0fRrys1S3tZ4tzxmdSxBrYYJuRSo3F8hgpHs/edit?usp=drive_web)
 

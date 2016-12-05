@@ -1,12 +1,16 @@
-CfP 包含三個
+CfP 包含四個子項目:
+
 1. Talk
 2. Unconference
 3. Tutorial
-關於以上三者的細節與內容請在 [Call for Proposal](https://docs.google.com/document/d/1hMmPG96KPdhbU-uJiRbzMiuI0E67_n0uu_Nz82uucF0/edit#) 這邊做編輯。
+4. Review
 
-##Talk
+關於以上四個的細節與內容請在 [Call for Proposal](https://docs.google.com/document/d/1hMmPG96KPdhbU-uJiRbzMiuI0E67_n0uu_Nz82uucF0/edit#) 這邊做編輯。
+
+
+#Talk
 目前網站的投稿流程：
-提交一個新的提案 -> 提案內容 -> 審稿 -> 公布
+提交一個新的提案 -> 提案內容 -> 審稿 -> 公佈
 
 ###提案欄位：
 * 題目* (Title)
@@ -27,3 +31,25 @@ CfP 包含三個
 ###討論
 1. 要新增或是縮減欄位
 2. 給審稿者 reviewer 知道要回饋的語言
+
+
+#Unconference
+
+TBD
+
+###討論
+
+
+#Tutorial
+
+TBD
+
+###討論
+
+
+#Review
+
+TBD
+
+
+###討論
