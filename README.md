@@ -16,7 +16,17 @@
 * [BoF](https://gist.github.com/chairco/48f959c681d25617c60e4d3374b26992)
 * [Sprints](https://gist.github.com/chairco/8d96f455786c50e8aed04d343105ccb0/cd721eeceeb2c7798d50bb0a4e4c2343dad34161)
 * [JobFair](https://gist.github.com/chairco/615d302fae03e9a368c0cd3d3988cc29/428b6b2abeeaa288ca272d16d2e40187a5e6706d)
- 
+
+
+##如何新增列表
+
+1. 請先申請加入 `Collaborators`。
+2. clone 此專案:
+`git clone https://github.com/chairco/pycontw2017-program.git` 
+3. 在 [gist](https://gist.github.com/) 新增一個主題內容。
+4. 回到專案內新增一個子專案 submodule:
+`git submodule add "gist url" "topic's name"`
+
 
 ##參考連結
 1. [工作清單](https://docs.google.com/document/d/1hCUG9Qg0fRrys1S3tZ4tzxmdSxBrYYJuRSo3F8hgpHs/edit?usp=drive_web)
