@@ -2,6 +2,7 @@
 
 議程組相關工作記錄追蹤
 
+
 ##使用方法
 
 討論的部分會連結到 Gist，內容結構會有項目流程細節、討論內容與該完成事項。
@@ -9,6 +10,7 @@
 
 
 ##主題列表
+
 * [簡介](README.md)
 * [Keynote](https://gist.github.com/chairco/65679bdd5e792ae24bb3aa813ef59290/c51295444b22b48fee7a2eb8c29a5022b6ae69e9)
 * [Call for Proposal](https://gist.github.com/chairco/7360f60a6396e6e7fddf056ff2b8b70a/26da4f624e873298ae91cb45d6c93c2913c7720b)
@@ -20,7 +22,7 @@
 
 ##如何新增列表
 
-1. 請先申請加入 `Collaborators`。
+1. 請先加入 `Collaborators`。
 2. clone 此專案:
 `git clone https://github.com/chairco/pycontw2017-program.git` 
 3. 在 [gist](https://gist.github.com/) 新增一個主題內容。
@@ -30,4 +32,5 @@
 
 ##參考連結
 1. [工作清單](https://docs.google.com/document/d/1hCUG9Qg0fRrys1S3tZ4tzxmdSxBrYYJuRSo3F8hgpHs/edit?usp=drive_web)
+
 
