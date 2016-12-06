@@ -1,0 +1,18 @@
+[submodule "CfP"]
+	path = CfP
+	url = https://gist.github.com/7360f60a6396e6e7fddf056ff2b8b70a.git
+[submodule "BoF"]
+	path = BoF
+	url = https://gist.github.com/48f959c681d25617c60e4d3374b26992.git
+[submodule "Keynote"]
+	path = Keynote
+	url = https://gist.github.com/65679bdd5e792ae24bb3aa813ef59290.git
+[submodule "Sprints"]
+	path = Sprints
+	url = https://gist.github.com/8d96f455786c50e8aed04d343105ccb0.git
+[submodule "Tutorial"]
+	path = Tutorial
+	url = https://gist.github.com/d0911f60e1be2ee2540dc235f7676fbc.git
+[submodule "JobFair"]
+	path = JobFair
+	url = https://gist.github.com/615d302fae03e9a368c0cd3d3988cc29.git

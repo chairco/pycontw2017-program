@@ -4,20 +4,18 @@
 
 ##使用方法
 
-列表中的每一個主題都會連結到對應的 MD File，內容結構會有項目流程細節、正在討論、該完成事項與討論。
-
-比較特別是討論的部分會連結到 Gist，因此可以透過 Gist 的留言功能整理大家想法，這些內容會 fork 到這個專案內，定期的 pull 做備份。
-
+比討論的部分會連結到 Gist，內容結構會有項目流程細節、正在討論、該完成事項與討論。
+可以透過 Gist 的留言功能整理大家想法，這些內容都會自動鏈結到這個專案內，也就不需要做備份。
 
 
 ##主題列表
 * [簡介](README.md)
-* [Keynote](keynote.md)
-* [Call for Proposal](CfP.md)
-* [Tutorial](tutorial.md)
-* [Bof](Bof.md)
-* [Sprint](sprint.md)
-* [JobFair](jobfair.md)
+* [Keynote](keynote)
+* [Call for Proposal](CfP)
+* [Tutorial](Tutorial)
+* [BoF](BoF)
+* [Sprints](Sprints)
+* [JobFair](JobFair)
  
 
 ##參考連結
