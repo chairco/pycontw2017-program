@@ -5,7 +5,7 @@
 
 ##使用方法
 
-討論的部分會連結到 Gist，內容結構會有項目流程細節、討論內容與該完成事項。
+討論的部分會連結到 Gist，結構會有項目執行的流程細節、討論內容與該完成事項(至於執行項目因為涉及隱私檔案還是放在 doc)。
 可以透過 Gist 的留言功能整理大家想法，這些內容都會自動鏈結到這個專案內，也就不需要做備份。
 
 
@@ -28,6 +28,8 @@
 3. 在 [gist](https://gist.github.com/) 新增一個主題內容。
 4. 回到專案內新增一個子專案 submodule:
 `git submodule add "gist url" "topic's name"`
+5. 之後如果要更新 `submodule` 可以執行:
+`git submodule foreach --recursive git pull origin masters`
 
 
 ##參考連結
