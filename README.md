@@ -20,19 +20,19 @@
 * [JobFair](https://gist.github.com/chairco/615d302fae03e9a368c0cd3d3988cc29/428b6b2abeeaa288ca272d16d2e40187a5e6706d)
 
 
-##如何新增列表
+## 新增列表
 
-1. 請先加入 `Collaborators`。
-2. clone 此專案:
++ 請先加入 `Collaborators`。
++ clone 此專案:
 `git clone https://github.com/chairco/pycontw2017-program.git` 
-3. 在 [gist](https://gist.github.com/) 新增一個主題內容。
-4. 回到專案內新增一個子專案 submodule:
++ 在 [gist](https://gist.github.com/) 新增一個主題內容。
++ 回到專案內新增一個子專案 submodule:
 `git submodule add "gist url" "topic's name"`
-5. 之後如果要更新 `submodule` 可以執行:
++ 之後如果要更新 `submodule` 可以執行:
 `git submodule foreach --recursive git pull origin masters`
 
 
-##參考連結
+## 參考連結
 1. [工作清單](https://docs.google.com/document/d/1hCUG9Qg0fRrys1S3tZ4tzxmdSxBrYYJuRSo3F8hgpHs/edit?usp=drive_web)
 
 
